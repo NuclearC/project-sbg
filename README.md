@@ -1,2 +1,2 @@
 # project-sbg
-Special Internet Browser for Games
+Special Internet Browser for Games based on WxWidgets

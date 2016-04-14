@@ -3,4 +3,8 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="wxapp.h" />
+    <ClInclude Include="stdbase.h" />
+  </ItemGroup>
 </Project>
